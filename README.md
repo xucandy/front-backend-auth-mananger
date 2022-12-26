@@ -2,7 +2,7 @@
   <img alt="" src="./apps/frontend/public/resource/img/logo.png">
 </p>
 
-<h1 align="center">kz admin</h1>
+<h1 align="center">权限管理系统</h1>
 
 <p align="center">
 <a href="https://vuejs.org"><img alt="Vue3" src="https://img.shields.io/badge/-Vue3-333333?style=flat&logo=vue.js" /></a>
